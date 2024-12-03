@@ -60,7 +60,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 📧 Contact
-For questions or feedback, reach out:
-
-Umaralp: junaid.umar.ju@gmail.com
+gmail: junaid.umar.ju@gmail.com
+GitHub Username: umaralp
 GitHub Profile: Umaralp https://github.com/Umaralp
