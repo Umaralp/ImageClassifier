@@ -1,4 +1,4 @@
-#Image Classifier
+# Image Classifier
 
 This repository demonstrates a **Convolutional Neural Network (CNN)** implemented using TensorFlow/Keras to classify images. The project is built as a foundation for image classification tasks and uses the popular MNIST dataset for handwritten digit recognition.
 
