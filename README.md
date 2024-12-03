@@ -63,4 +63,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 For questions or feedback, reach out:
 
 Umaralp: junaid.umar.ju@gmail.com
-GitHub Profile: Umaralp
+GitHub Profile: Umaralp https://github.com/Umaralp
