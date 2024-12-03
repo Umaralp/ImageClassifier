@@ -1,8 +1,5 @@
-Image Classifier
+#Image Classifier
 
-![Image Classifier](C:\Users\junai\OneDrive\Pictures\Screenshots\Screenshot 2024-12-03 155629.png "Image Classifier Project")
-
-"Image Classifier" project!
 This repository demonstrates a **Convolutional Neural Network (CNN)** implemented using TensorFlow/Keras to classify images. The project is built as a foundation for image classification tasks and uses the popular MNIST dataset for handwritten digit recognition.
 
 ## 📜 Project Overview
